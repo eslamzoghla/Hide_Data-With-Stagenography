@@ -28,3 +28,8 @@ Visualization of the stego-images and extraction results.
 This project is part of the DEPI Graduation Program, specializing in Generative AI.
 
 Feel free to contribute, suggest improvements, or explore the repository to learn more about the exciting world of steganography!
+
+# Video
+
+https://github.com/user-attachments/assets/fa7712ca-e5e9-43cf-a7cf-c47b784d1940
+
